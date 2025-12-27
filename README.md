@@ -6,7 +6,7 @@ Interactive Docker resource cleanup scripts with beautiful UI for macOS systems.
 
 | Script | Language | File | Purpose |
 |--------|----------|------|---------|
-| 🇩🇪 German | German | `docker-cleaner.sh` | German version of the interactive Docker cleaner |
+| 🇩🇪 German | German | `docker-cleaner-de.sh` | German version of the interactive Docker cleaner |
 | 🇬🇧 English | English | `docker-cleaner-en.sh` | English version of the interactive Docker cleaner |
 
 ## 🚀 Quick Start
