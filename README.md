@@ -77,7 +77,7 @@ Preview what would be deleted without actually removing anything.
 ```
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                    🐳 DOCKER CLEANER v1.0.0                            ║
-║              Interactive Resource Cleanup                           ║
+║                 Interactive Resource Cleanup                           ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
 Status: 🟢 Running | Storage: 6GB
@@ -89,10 +89,10 @@ Status: 🟢 Running | Storage: 6GB
 │  [1] 🗑️  Delete dangling images (<none> images)             │
 │  [2] 🐳  Cleanup unused containers                          │
 │  [3] 💾  Cleanup unused volumes                             │
-│  [4] 🔨  Clear build cache                                    │
+│  [4] 🔨  Clear build cache                                  │
 │  [5] 📊  Show detailed analysis                             │
 │  [6] 🚀  Full cleanup (all above)                           │
-│  [7] ⚙️  Advanced options                                    │
+│  [7] ⚙️  Advanced options                                   │
 │                                                             │
 │  [0] 🚪  Exit                                               │
 │                                                             │
